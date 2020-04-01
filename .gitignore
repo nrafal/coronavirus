@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.docker/logstash/data/.lock
+.docker/logstash/data/uuid
